@@ -1,0 +1,19 @@
+1. Kubernetes on Amazon
+
+#Kubectl version
+kubectl version
+
+
+# Creating cluster
+$ eksctl create cluster
+
+
+# Names of running clusters 
+$ eksctl get clusters 
+
+
+# Delete cluster 
+$ eksctl delete cluster --name "Cluster Name"
+
+2. Scaling EKS Workers
+
