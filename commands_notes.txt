@@ -5,7 +5,7 @@ kubectl version
 
 
 # Creating cluster
-$ eksctl create cluster
+$ eksctl create cluster --name "Cluster Name"
 
 
 # Names of running clusters 
